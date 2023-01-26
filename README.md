@@ -9,7 +9,12 @@ Hello friends in this repository I build an web application using streamlit whic
 **After creating that file I created a streamlit web application to make the code user friendly and to be accessible to even normal peoples.**
 
 
+**To install Snscrape we need to use developer package to get this code running**
 
+'Snscrape requires at least Python 3.8 or higher.'
+>'pip3 install git+https://github.com/JustAnotherArchivist/snscrape.git'
 
+Remaining code is mentioned in the code file 
 
+**Happy programming**
 
