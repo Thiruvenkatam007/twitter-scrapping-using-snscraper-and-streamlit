@@ -23,4 +23,4 @@ Hello friends in this repository I build an web application using streamlit whic
 
 **Happy programming**
 
-**Extremely sorry guys mongodb is not showing the video eventhough i clicked on it**
+**Demo video is very short and in two parts because github is not allowing more than 25 mb file size**
