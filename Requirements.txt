@@ -1,0 +1,6 @@
+snscrape==0.5.0.20230114.dev6+gb515a66
+streamlit==1.17.0
+pandas==1.4.3
+pymongo==4.3.3
+
+
