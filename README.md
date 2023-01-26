@@ -24,3 +24,5 @@ Hello friends in this repository I build an web application using streamlit whic
 **Happy programming**
 
 **Demo video is very short and in two parts because github is not allowing more than 25 mb file size**
+**Below is the link of full demo video**
+**https://drive.google.com/drive/folders/1HQkejVVuTw-qpjvC8BMtq00aRxbn8meE?usp=share_link**
