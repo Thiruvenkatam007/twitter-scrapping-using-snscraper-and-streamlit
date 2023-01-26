@@ -14,7 +14,12 @@ Hello friends in this repository I build an web application using streamlit whic
 'Snscrape requires at least Python 3.8 or higher.'
 >'pip3 install git+https://github.com/JustAnotherArchivist/snscrape.git'
 
-Remaining code is mentioned in the code file 
+**After installing snscrape we created function to scrape data from twitter**
+
+**And also created a function named upload_to_mongodb to upload data to our database**
+
+**After creating these functions we created our  web application using streamlit**
+
 
 **Happy programming**
 
